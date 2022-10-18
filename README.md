@@ -21,6 +21,6 @@ My Interests:
 
 My Projects:
 - Asset Return Forecarst Modeling
-- Poverty Classfication with CNN
+- Poverty Classification with CNN
 - Tweets Popularity Calculation
 - Diabetes Analysis with Logistic Models
