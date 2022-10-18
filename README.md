@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I am [Danielle Zhu](https://www.linkedin.com/in/danielle-zhu-989972139/), a passionate data-driven problem solver. I live in San Diego, and I'm graduating with M.S. in statistics from UC San Diego in March. I'm excited to start my career and contribute my skills to innovative decision-making. 
 
