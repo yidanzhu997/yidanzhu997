@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**yidanzhu997/yidanzhu997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://www.linkedin.com/in/danielle-zhu-989972139/">
+<img align="center" alt="Simon's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 
 Here are some ideas to get you started:
 
