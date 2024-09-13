@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Danielle Zhu](https://www.linkedin.com/in/danielle-zhu-989972139/), a passionate data-driven problem solver. I live in San Diego, and I'm graduating with M.S. in statistics from UC San Diego in March. I'm excited to start my career and contribute my skills to innovative decision-making. 
+I am [Danielle Zhu](https://www.linkedin.com/in/danielle-zhu-989972139/), a perceptive and self-motivated statistician with a strong foundation in data integration, data analytics, and database management. I'm passionate about leveraging data-driven insights to drive impactful solutions. 
 
 My Favourite Languages and Tools:
 
@@ -20,7 +20,7 @@ My Interests:
 - Mathematical Finance
 
 My Projects:
-- Asset Return Forecarst Modeling
+- Asset Return Forecast Modeling
 - Poverty Classification with CNN
 - Tweets Popularity Calculation
 - Diabetes Analysis with Logistic Models
